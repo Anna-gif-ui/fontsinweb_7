@@ -55,6 +55,12 @@ h1{
     line-height: 0.66;
 }
 
+.row{
+    content: '';
+    display: block;
+    clear: both;
+}
+
 button{
     position: relative;
     text-transform: uppercase;
