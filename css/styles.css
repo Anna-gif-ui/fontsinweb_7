@@ -55,7 +55,8 @@ h1{
     line-height: 0.66;
 }
 
-.row{
+.row:before
+.row:after{
     content: '';
     display: block;
     clear: both;
